@@ -1,0 +1,11 @@
+body{
+    align-items: center;
+    text-align: center;
+}
+h1{
+    color: red;
+}
+.completed{
+    color: gray;
+    text-decoration: line-through;
+}
